@@ -17,5 +17,3 @@ def quarter_of(month):
         return 3
     elif month >= 10 and month <= 12:
         return 4
-
-print(quarter_of(12))
