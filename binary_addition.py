@@ -11,5 +11,5 @@ Examples:(Input1, Input2 --> Output (explanation)))
 
 
 def add_binary(a, b):
-	return str(bin(a + b)[2:])
+	return bin(a + b)[2:]
 
